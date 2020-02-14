@@ -1,15 +1,8 @@
 # Install wget2 with homebrew
 
-Since `wget2` is still alpha it is not ["acceptable"](https://github.com/Homebrew/homebrew-core/pull/36855) in homebrew-core. If you still do want to install it with homebrew you can using this tap:
+Since `wget2` is still alpha it is not ["acceptable"](https://github.com/Homebrew/homebrew-core/pull/36855) in homebrew-core. If you still do want to install it with homebrew you can using this tap.
 
-## Installation
-
-Type those two commands in your Terminal:
-
-```bash
-brew tap jakob-stoeck/unacceptable
-brew install wget2
-```
+H/T dedsec1 and jakob-stoeck.
 
 ## Description
 

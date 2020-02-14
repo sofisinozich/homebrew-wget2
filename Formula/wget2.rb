@@ -2,7 +2,7 @@ class Wget2 < Formula
   desc "Multithreaded metalink/file/website downloader"
   homepage "https://gitlab.com/gnuwget/wget2/"
   url "https://gnuwget.gitlab.io/wget2/wget2-latest.tar.gz"
-  sha256 "8d9b0b0897ff9623169db47c656d09007677f8d51de5f5cd3652258aab8b4dde"
+  sha256 "0f4ead41aeee78f1e39a61606de9679dfff6cc8cb6747ed6c0473a03cdab2c5c"
 
   depends_on "gettext"
   depends_on "gnutls"
